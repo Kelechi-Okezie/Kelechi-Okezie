@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelechi-Okezie. I’m a Business Intelligence Data Analyst with a keen interest in Health/clinical data.
 - 👀 I pride myself as a data enthusiast who loves to dig deep into data using the necessary combination of tools to unravel insights.
-- 🌱 I’m skilled in SQL, Excel, Tableau, Power BI, R and Python
+- 🌱 I’m skilled in SQL, Excel, Tableau, Python and Power BI. 
 - 💞️ I’m looking to help businesses/organizations grow by tracking relevant metrics and KPIs
 - 📫 How to reach me (email: kayceeokezie@gmail.com)
 
